@@ -10,3 +10,6 @@ FIFA 21 is an association football simulation video game published by Electronic
 [![](https://img.shields.io/badge/Python-white?logo=Python)](#) [![](https://img.shields.io/badge/Jupyter-white?logo=Jupyter)](#)
 
 [View code on GitHub repository](https://github.com/akbaradie/fifa21-data-cleaning-and-analysis)
+
+---
+
