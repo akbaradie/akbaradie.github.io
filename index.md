@@ -1,35 +1,12 @@
-## Portfolio
+# Selected Projects in Data Analyst & Machine Learning
 
 ---
 
-### Category Name 1 
+## FIFA 21 Data Cleaning and Analysis
+FIFA 21 is an association football simulation video game published by Electronic Arts (EA), the game features more than 30 official leagues, over 700 clubs, and over 17,000 players. In this project, I did data cleaning, data transformation, data visualization, and data analysis to see features correlataion and distribution. Most of the work on this project uses Pandas, Seaborn, Matplotlib, and Scikit.
 
-[Project 1 Title](/sample_page)
-<img src="images/dummy_thumbnail.jpg?raw=true"/>
+[![](https://img.shields.io/badge/Python-white?logo=Python)](#) [![](https://img.shields.io/badge/Jupyter-white?logo=Jupyter)](#)
 
----
-[Project 2 Title](/pdf/sample_presentation.pdf)
-<img src="images/dummy_thumbnail.jpg?raw=true"/>
+<img src="images/Fifa21_corr.png?raw=true"/>
 
----
-[Project 3 Title](http://example.com/)
-<img src="images/dummy_thumbnail.jpg?raw=true"/>
-
----
-
-### Category Name 2
-
-- [Project 1 Title](http://example.com/)
-- [Project 2 Title](http://example.com/)
-- [Project 3 Title](http://example.com/)
-- [Project 4 Title](http://example.com/)
-- [Project 5 Title](http://example.com/)
-
----
-
-
-
-
----
-<p style="font-size:11px">Page template forked from <a href="https://github.com/evanca/quick-portfolio">evanca</a></p>
-<!-- Remove above link if you don't want to attibute -->
+[View code on GitHub repository](https://github.com/akbaradie/fifa21-data-cleaning-and-analysis)
