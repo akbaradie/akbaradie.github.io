@@ -15,7 +15,7 @@ FIFA 21 is an association football simulation video game published by Electronic
 
 ## Coffee Orders Dashboard
 
-
+<img src="images/coffee-demo.gif?raw=true"/>
 
 [View code on GitHub repository](https://github.com/akbaradie/cofee-dashboard)
 
@@ -30,5 +30,3 @@ FIFA 21 is an association football simulation video game published by Electronic
 [View code on GitHub repository](https://github.com/C23-PS045/NutriFruity)
 
 ---
-
-<img src="images/coffe-demo.gif?raw=true"/>
