@@ -31,4 +31,4 @@ FIFA 21 is an association football simulation video game published by Electronic
 
 ---
 
-<img src="images/demo.gif?raw=true"/>
+<img src="images/coffe-demo.gif?raw=true"/>
