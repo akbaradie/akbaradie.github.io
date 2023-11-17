@@ -13,6 +13,14 @@ FIFA 21 is an association football simulation video game published by Electronic
 
 ---
 
+## Coffee Orders Dashboard
+
+
+
+[View code on GitHub repository](https://github.com/akbaradie/cofee-dashboard)
+
+---
+
 ## Fruit Classification Using TensorFlow
 
 <img src="images/NutriFruity-logo.png?raw=true"/>
@@ -22,3 +30,5 @@ FIFA 21 is an association football simulation video game published by Electronic
 [View code on GitHub repository](https://github.com/C23-PS045/NutriFruity)
 
 ---
+
+
