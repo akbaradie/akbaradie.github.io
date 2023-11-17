@@ -1,4 +1,4 @@
-# Selected Projects in Data Analyst & Machine Learning
+# Selected Projects in Data Analysis & Machine Learning
 
 ---
 
@@ -13,3 +13,12 @@ FIFA 21 is an association football simulation video game published by Electronic
 
 ---
 
+## Fruit Classification Using TensorFlow
+
+<img src="images/NutriFruity-logo.png?raw=true"/>
+
+[![](https://img.shields.io/badge/Python-white?logo=Python)](#) [![](https://img.shields.io/badge/Jupyter-white?logo=Jupyter)](#) [![](https://img.shields.io/badge/TensorFlow-white?logo=tensorflow)](#)
+
+[View code on GitHub repository](https://github.com/C23-PS045/NutriFruity)
+
+---
