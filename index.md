@@ -24,6 +24,16 @@ I did some practice using INDEX, VLOOKUP, and conditional statement in Microsoft
 
 ---
 
+## [Credit Scoring Home Credit](https://github.com/akbaradie/home-credit-scoring)
+
+<img src="https://logowik.com/content/uploads/images/home-credit706.logowik.com.webp"/>
+
+[![](https://img.shields.io/badge/Python-white?logo=Python)](#) [![](https://img.shields.io/badge/Jupyter-white?logo=Jupyter)](#) [![](https://img.shields.io/badge/TensorFlow-white?logo=tensorflow)](#)
+
+[View code on GitHub repository](https://github.com/akbaradie/home-credit-scoring)
+
+---
+
 ## [Fruit Classification Using TensorFlow](https://github.com/C23-PS045/NutriFruity)
 Classify images to 12 types of fruits using CNN (TensorFlow) and deploy the model using TFLite to Android.
 
