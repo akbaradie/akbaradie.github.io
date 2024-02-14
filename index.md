@@ -1,4 +1,4 @@
-# Selected Projects in Data Analysis & Machine Learning
+# Selected Projects in Data Science & Machine Learning
 
 ---
 
