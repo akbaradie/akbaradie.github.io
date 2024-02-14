@@ -14,7 +14,7 @@ FIFA 21 is an association football simulation video game published by Electronic
 ---
 
 ## [Coffee Orders Dashboard (EXCEL)](https://github.com/akbaradie/cofee-dashboard)
-I did some practice using **INDEX, VLOOKUP, and conditional statement** in Microsoft Excel. Then, I did EDA by making **pivot tables** from the data. Last, I made Sales Dashboard which include: total sales overtime, sales by country, top 5 customers. The total sales overtime can be categorized by Roast Type, Size, and Loyalty Card ownership.
+Most function in this project were **INDEX, VLOOKUP, and conditional statement** in Microsoft Excel. Then, I did EDA by making **pivot tables** from the data. Last, I made Sales Dashboard which include: total sales overtime, sales by country, top 5 customers. The total sales overtime can be categorized by Roast Type, Size, and Loyalty Card ownership.
 
 <img src="images/coffee-demo.gif?raw=true"/>
 
@@ -25,7 +25,7 @@ I did some practice using **INDEX, VLOOKUP, and conditional statement** in Micro
 ---
 
 ## [Credit Scoring Home Credit (PYTHON)](https://github.com/akbaradie/home-credit-scoring)
-Many people  face **challenges in obtaining loans** because they **lack sufficient or any credit history**. Home Credit is strive to expand financial inclusion for individuals who are not served by traditional banking services, by offering a favorable and secure borrowing process. To ensure a positive loan experience, Home Credit employs alternative data sources to predict their **clients' repayment capabilities**. This approach aims to prevent deserving clients from being denied loans and ensures that loans are provided with terms and repayment schedules that enable **clients to succeed financially**.
+Crunching data with **307K+ rows & 122 columns** and build multiple ML models to predict customers' loan payment capabilities. Steps in this project involve **Exploratory Data Analysis** for getting **insights** and giving **recommendations**, Data Cleansing (**missing, invalid data, and outliers**), Data Preprocessing (**PCA and handling imbalanced data**), Build ML models (**binary classification**), and **Model Evaluation**.
 
 <img src="https://logowik.com/content/uploads/images/home-credit706.logowik.com.webp"/>
 
