@@ -14,7 +14,7 @@ FIFA 21 is an association football simulation video game published by Electronic
 ---
 
 ## [Coffee Orders Dashboard (EXCEL)](https://github.com/akbaradie/cofee-dashboard)
-I did some practice using INDEX, VLOOKUP, and conditional statement in Microsoft Excel. Then, I did EDA by making pivot tables from the data. Last, I made Sales Dashboard which include: total sales overtime, sales by country, top 5 customers. The total sales overtime can be categorized by Roast Type, Size, and Loyalty Card ownership.
+I did some practice using **INDEX, VLOOKUP, and conditional statement** in Microsoft Excel. Then, I did EDA by making **pivot tables** from the data. Last, I made Sales Dashboard which include: total sales overtime, sales by country, top 5 customers. The total sales overtime can be categorized by Roast Type, Size, and Loyalty Card ownership.
 
 <img src="images/coffee-demo.gif?raw=true"/>
 
